@@ -1,5 +1,0 @@
-File: hosts
------------
-
-[lemp]
-xxx.xxx.xxx.xxx ansible_ssh_user=ubuntu
