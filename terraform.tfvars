@@ -1,0 +1,5 @@
+aws_access_key="youkeyid"
+aws_secret_key="yoursecret"
+aws_ssh_admin_key_file = "keys/aws_terraform"
+bucket_name = "drupal-bucket"
+bucket_user = "drupal-user"
